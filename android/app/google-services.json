@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "653809292525",
+    "project_id": "secondapp-5ee43",
+    "storage_bucket": "secondapp-5ee43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653809292525:android:facf7998003010c25e28e4",
+        "android_client_info": {
+          "package_name": "com.example.realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ9ulI-g9xcEmu9PzOjwW1Kzh6VsMZJ3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653809292525:android:9a7a1d38547b2e9e5e28e4",
+        "android_client_info": {
+          "package_name": "com.example.seconddf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ9ulI-g9xcEmu9PzOjwW1Kzh6VsMZJ3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
